@@ -1,0 +1,1 @@
+print("GEOINFORMATYKA RZADZI OHHH YEAAAAAA rozpoznanie tez metteo tez")
